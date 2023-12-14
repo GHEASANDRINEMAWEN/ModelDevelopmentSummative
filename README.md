@@ -39,6 +39,10 @@ The Fertilizer Recommendation System assists farmers in determining the optimal 
 
 The Pest Detection System utilizes image processing and machine learning to identify and detect pests or diseases affecting crops. By analyzing images of crops, this module helps farmers identify potential issues early, allowing for timely intervention.
 
+### Dataset Preparation
+Download the dataset from Kaggle: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset.
+Perform offline augmentation to organize the data into train and test folders.
+
 ### Usage
 
 1. Capture images of crops or affected areas.
